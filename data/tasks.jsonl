@@ -1,0 +1,3 @@
+{"task_id":"IMG-001","modality":"image","prompt":"Count the visible objects.","reference":"2","outcome":1,"reviewer":"demo"}
+{"task_id":"AUD-001","modality":"audio","prompt":"Transcribe the short utterance.","reference":"Turn left.","outcome":0,"reviewer":"demo"}
+{"task_id":"VID-001","modality":"video","prompt":"Which event occurs first?","reference":"A person enters before the door closes.","outcome":1,"reviewer":"demo"}

@@ -1,0 +1,9 @@
+[project]
+name = "multimodal-ai-evaluation-benchmark"
+version = "0.1.0"
+description = "A task-schema and scoring harness spanning image, audio, and video evaluation."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
